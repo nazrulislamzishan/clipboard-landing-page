@@ -41,6 +41,7 @@ header {
 }
 .btn {
   font-size: 24px;
+  margin-bottom: 24px;
 }
 .btn-primary {
   padding: 15px 35px;
